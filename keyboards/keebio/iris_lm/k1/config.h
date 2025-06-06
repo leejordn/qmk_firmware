@@ -24,3 +24,6 @@
 #   define WS2812_DMA_CHANNEL 2
 #   define WS2812_DMAMUX_ID STM32_DMAMUX1_TIM3_UP
 #endif
+
+/* My customizations */
+#define TAPPING_TERM 125
